@@ -30,7 +30,7 @@ class Calculator {
 		initialize();
 	}
 
-	int precedence(String x
+	int precedence(String x)
 	{
 		int p=10;
 		switch(x) {

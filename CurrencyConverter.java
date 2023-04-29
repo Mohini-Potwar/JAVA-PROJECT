@@ -96,7 +96,7 @@ public class project2 {
 		});
 
 		// Adding the created objects
-		// to the form
+		
 		f.add(l1);
 		f.add(t1);
 		f.add(l2);
